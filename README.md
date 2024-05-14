@@ -18,6 +18,10 @@ Esse repositório hospedará o meu primeiro projeto de site criado https://andra
 
 ## Autor
 João Vitor Andrade
+
+## Modificado por
+Robson Vaamonde
+
 ## Links Utilizados
 [Google Fonts](https://fonts.google.com/)
 
